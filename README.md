@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a no bullshit comic book database. You can add, edit, delete and view all the comics in the database. The front-end is built with React, Vanilla Javascript & SASS and the back-end is built with Node.js and Express. The database consists of a simple JSON file in order to store the data.
+This is a no bullshit comic book management web app. You can add, edit, delete and view all the comics in the database. The front-end is built with React, Vanilla Javascript & SASS and the back-end is built with Node.js and Express. The database consists of a simple JSON file in order to store the data.
 
 ## Installation
 
